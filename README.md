@@ -1,2 +1,7 @@
-# C-Language-Projects
-10 C language projects for beginners using basic to intermediate concepts
+# C Language Projects
+
+This repository contains 10 C language projects
+created for learning and practice.
+
+Author: Rahul Solanki
+
