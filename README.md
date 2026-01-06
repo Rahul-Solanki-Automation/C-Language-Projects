@@ -6,7 +6,7 @@ intermediate C programming concepts.
 
 ## Projects Included
 1. Number Guessing Game
-2. Calculator
+2. Simple Calculator
 3. Student Management System
 4. Library Management System
 5. Bank Account Management
