@@ -18,5 +18,6 @@ intermediate C programming concepts.
 
 ## Technologies Used
 - C Language
+- Gcc compiler
 
 Author: Rahul Solanki
