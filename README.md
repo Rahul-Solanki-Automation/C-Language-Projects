@@ -8,7 +8,7 @@ intermediate C programming concepts.
 1. Number Guessing Game
 2. Simple Calculator
 3. Digital Clock 
-4. Library Management System
+4. Progress Bar 
 5. Bank Account Management
 6. Tic Tac Toe
 7. ATM Simulation
