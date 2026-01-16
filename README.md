@@ -9,7 +9,7 @@ intermediate C programming concepts.
 2. Simple Calculator
 3. Digital Clock 
 4. Progress Bar 
-5. Bank Account Management
+5. User management
 6. Tic Tac Toe
 7. ATM Simulation
 8. Quiz Application
